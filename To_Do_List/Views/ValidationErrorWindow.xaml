@@ -1,0 +1,17 @@
+<Window x:Class="To_Do_List.ValidationErrorWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Validation Error" Height="150" Width="400"
+        Background="Black"
+        Foreground="White"
+        ResizeMode="NoResize"
+        SizeToContent="WidthAndHeight"
+        WindowStartupLocation="CenterScreen">
+
+    <Grid>
+        <StackPanel Margin="20">
+            <TextBlock x:Name="MessageTextBlock" Text="Validation error occurred." FontSize="16" TextWrapping="Wrap" Margin="0,0,0,10"/>
+            <Button Content="OK" Width="75" HorizontalAlignment="Right" Click="OkButton_Click" />
+        </StackPanel>
+    </Grid>
+</Window>
