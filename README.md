@@ -17,14 +17,14 @@ The application allows users to add, edit, and delete tasks with a simple and in
 ✅ **Použití WPF pro moderní UI**  
 ✅ **Ukládání dat do souboru nebo databáze**  
 ✅ **Možnost kategorizace úkolů**  
-✅ **Upozornění na blížící se termíny (pokud je implementováno)**  
+✅ **Upozornění na blížící se termíny**  
 
 ### **Main Features (EN)**
 ✅ **Add, edit, and delete tasks**  
 ✅ **Modern UI with WPF**  
 ✅ **Save data to a file or database**  
 ✅ **Categorize tasks**  
-✅ **Notifications for upcoming deadlines (if implemented)**  
+✅ **Notifications for upcoming deadlines**  
 
 ---
 
