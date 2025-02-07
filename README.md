@@ -48,14 +48,7 @@ ToDoApp_CS
 - **C# (.NET Framework / .NET Core)**  
 - **WPF (Windows Presentation Foundation)**  
 - **MVVM Pattern (pokud je implementováno)**  
-- **Databázové úložiště (SQLite / JSON / XML / CSV)**  
-
----
-
-## ✅ Možná vylepšení | Possible Improvements
-- 🔹 **Přidání synchronizace s cloudem (Google Drive, OneDrive)**  
-- 🔹 **Přidání notifikací a připomenutí**  
-- 🔹 **Export úkolů do PDF nebo CSV**  
+- **Databázové úložiště (SQLite)**  
 
 ---
 
